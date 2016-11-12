@@ -18,6 +18,7 @@
 
 ## End Point Routes API
 Default development host and port : http://localhost:3000
+
 | Routes | HTTP | Action |
 |--------|------|--------|
 | /api/colors | GET | get one random hexa color |
