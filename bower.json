@@ -1,0 +1,21 @@
+{
+  "name": "JavaScript_Ajax_and_jQuery",
+  "description": "",
+  "main": "javascript/script.js",
+  "authors": [
+    "Ken Duigraha Putra <kenduigraha@yahoo.comm>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kenduigraha/JavaScript-Ajax-and-jQuery",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}

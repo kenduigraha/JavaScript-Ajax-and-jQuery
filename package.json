@@ -1,0 +1,23 @@
+{
+  "name": "JavaScript_Ajax_and_jQuery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenduigraha/JavaScript-Ajax-and-jQuery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenduigraha/JavaScript-Ajax-and-jQuery/issues"
+  },
+  "homepage": "https://github.com/kenduigraha/JavaScript-Ajax-and-jQuery#readme",
+  "dependencies": {
+    "bower": "^1.8.0"
+  }
+}
